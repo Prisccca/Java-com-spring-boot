@@ -1,0 +1,5 @@
+package com.priscca.userdept.entities;
+
+public class Department {
+
+}

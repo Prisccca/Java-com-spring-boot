@@ -1,0 +1,5 @@
+package com.priscca.userdept.repositories;
+
+public class UserRepository {
+
+}
